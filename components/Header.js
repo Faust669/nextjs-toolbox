@@ -15,7 +15,7 @@ export default function Header({ title }) {
       </p>
 
       <p>
-        You can suck my balls GitHub at{" "}
+        You can suck my balls at GitHub at{" "}
         <a href="https://github.com/netlify-templates/nextjs-toolbox">
           https://github.com/netlify-templates/nextjs-toolbox
         </a>
